@@ -6,7 +6,7 @@
 # Task Overview
 
 ## Demo
-![WeRPlay iOS Test](/Resources/Demo.gif)
+<img src="/Resource/Demo.mov" width="250" height="500" />
 
 
 ## Features
